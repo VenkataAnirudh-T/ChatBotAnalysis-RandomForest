@@ -1,0 +1,28 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1593190414719.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2812474626",
+    "id" : "C9492B6D",
+    "lastKnownWriteTime" : 1607917759,
+    "last_content_update" : 1607917759051,
+    "path" : "D:/Projects/665/API TESTER/Application.Rmd",
+    "project_path" : "Application.Rmd",
+    "properties" : {
+        "chunk_output_type" : "console",
+        "cursorPosition" : "1112,48",
+        "last_setup_crc32" : "",
+        "scrollLine" : "1109",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
